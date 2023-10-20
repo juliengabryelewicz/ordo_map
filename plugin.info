@@ -1,0 +1,6 @@
+[Plugin]
+Id = ordo_map
+Name = Carte
+Version = 1.0.0
+Description = Affiche la carte du monde
+Required = mapview
